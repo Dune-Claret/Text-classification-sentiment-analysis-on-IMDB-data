@@ -1,5 +1,5 @@
 # Text_classification_IMDB
-I worked with the support of Patrice Bellot, member of the LSIS (CNRS UMR 7296) of Marseille and DIMAG team leader, with who I was supposed to do a 2 weeks training in June 2019. I deviated a little from what I have been ask to do, because I wanted to delve into the subject, so I worked for a month to developp and compare neural networks for Text Classification, to visualize word embeddings and by being more restrictive to visualize only those who are directly linked to emotions. To do so I used a a set of 50,000 highly-polarized reviews from the Internet Movie Database.
+I worked under the direction of Patrice Bellot, member of the LSIS (CNRS UMR 7296) of Marseille and DIMAG team leader, with who I was supposed to do a 2 weeks training in June 2019. I deviated a little from what I have been ask to do, because I wanted to delve into the subject, so I worked for a month to developp and compare neural networks for Text Classification, to visualize word embeddings and by being more restrictive to visualize only those who are directly linked to emotions. To do so I used a a set of 50,000 highly-polarized reviews from the Internet Movie Database.
 
 To fit the models I had to use Pyzo intead of Jupyter as the kernel died, all the codes are stored in the field code.
 
