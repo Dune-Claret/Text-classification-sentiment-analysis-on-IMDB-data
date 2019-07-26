@@ -1,7 +1,8 @@
-# Text_classification_IMDB
+# A brief introduction and specifications of the notebook
 I worked under the direction of Patrice Bellot, member of the LSIS (CNRS UMR 7296) of Marseille and DIMAG team leader, with who I was supposed to do a 2 weeks training in June 2019. I deviated a little from what I have been ask to do, because I wanted to delve into the subject, so I worked for a month to developp and compare neural networks for Text Classification, to visualize word embeddings and by being more restrictive to visualize only those who are directly linked to emotions. To do so I used a a set of 50,000 highly-polarized reviews from the Internet Movie Database.
 
-To fit the models I had to use Pyzo intead of Jupyter as the kernel died, all the codes are stored in the field code.
+
+In the subparts Train of Comparison of different architectures I call the history of the models which you can find in the history file. Notice that to fit the models so to get the histories I had to use Pyzo intead of Jupyter as its kernel died, all the codes are stored in the code file.
 
 Some folders or files are too big to be uploaded on Github, so I give you the link to download it :
 
