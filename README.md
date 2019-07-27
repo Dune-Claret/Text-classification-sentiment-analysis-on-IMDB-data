@@ -3,7 +3,7 @@ I worked under the direction of Patrice Bellot, member of the LSIS (CNRS UMR 729
 
 The first part is about formating data, then we come to the different neural networks and their results on both train and test datas, and finally we visualize word embeddings obtained with the best model.
 
-In the subparts Train of Comparison of different architectures I call the history of the models which you can find in the history file. Notice that to fit the models so to get the histories I had to use Pyzo intead of Jupyter as its kernel died, all the codes are stored in the code file.
+In the subparts Train of Comparison of different architectures I call the history of the models which you can find in the history file. Notice that to fit the models so to get the histories I had to use Pyzo intead of Jupyter as its kernel died, all the codes are stored in the scripts file.
 
 Some folders or files are too big to be uploaded on Github, so I give you the link to download it :
 
